@@ -12,6 +12,9 @@ func main() {
 	// StructCircleProgram()
 	// InterfaceProgram()
 	// GoRoutineProgram()
-	ChannelProgram()
+	// ChannelProgram()
+	// SelectProgram()
+	// LinkedList()
+	ErrorProgram()
 
 }
